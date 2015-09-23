@@ -4,11 +4,7 @@ get '/' do
   "Hello World!"
 end
 
-get '/akira' do
-  "Nice to meet you! My name is Akira Tamai."
-end
-
-get '/takashi' do
+get '/' do
   "Takashi Umezu, https://github.com/citrusnotes/"
 end
 
